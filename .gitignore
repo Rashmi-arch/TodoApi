@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build
+bin/
+obj/
+
+# Logs
+*.log
+*.vsidx
+
+# Angular (if frontend exists here too)
+node_modules/
+dist/
